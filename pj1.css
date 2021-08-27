@@ -1,0 +1,19 @@
+img {
+  display: block;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+.grid {
+  display: grid;
+  grid-template-rows: 30px 1fr 1fr;
+  background-color: #ffffff
+}
+.header {
+  background-color: #e0ffff
+
+}
+.footer {
+  background-color: #fffacd
+}
